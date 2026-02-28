@@ -1,3 +1,6 @@
+> [!NOTE]  
+> If you want to see the repository we use for development you can find it [here](https://github.com/ElGeroIngles/humanoid-villagers).
+
 <div align="center"><center>
 
 *Having problems or concerned about incompatible mods? Check out [this](https://github.com/Eclipse-Studios/backpacks/wiki/%E2%9A%A0%EF%B8%8F-Compatibility).*

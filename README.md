@@ -3,9 +3,11 @@
 
 <div align="center"><center>
 
-*Having problems or concerned about incompatible mods? Check out [this](https://github.com/Eclipse-Studios/backpacks/wiki/%E2%9A%A0%EF%B8%8F-Compatibility).*
+*Having problems or concerned about incompatible mods? Check out [this](https://github.com/Eclipse-Studios/humanoid_villagers/wiki/%E2%9A%A0%EF%B8%8F-Compatibility).*
 
-![https://cdn.modrinth.com/data/MGcd6kTf/images/3c711eae7bf4953725bd3ddb34ca12c210915ad3.webp](https://cdn.modrinth.com/data/MGcd6kTf/images/3c711eae7bf4953725bd3ddb34ca12c210915ad3.webp)
+[![HUMVIL](https://img.youtube.com/vi/8Se8aWc_JNg/0.jpg)](https://www.youtube.com/watch?v=8Se8aWc_JNg)
+
+###### DISCLAIMER: THIS TRAILER IS NOT A 1:1 REPRESENTATION OF WHAT THE DATAPACK DOES
 
 # 👨‍🌾 Humanoid Villagers
 *A datapack that replaces those boring villagers with Players! Names, skins and conversations are randomized and can be easily expanded on as it is all data-driven.*
@@ -43,7 +45,10 @@
 - English (en_us): By [ElGeroIngles](https://modrinth.com/user/ElGeroIngles).
 - Spanish (es_es): By [ElGeroIngles](https://modrinth.com/user/ElGeroIngles).
 
-You can contribute to this project by translating it to other languages! See how [here](https://github.com/Eclipse-Studios/backpacks/wiki/%F0%9F%8C%90-Supported-Languages).
+You can contribute to this project by translating it to other languages! See how [here](https://github.com/Eclipse-Studios/humanoid_villagers/wiki/%F0%9F%8C%90-Supported-Languages).
+
+## 🛠️ Addons
+Want to learn how to make **Addons** adding new names, skins and conversations? See how in the [wiki](https://github.com/Eclipse-Studios/humanoid_villagers/wiki/%F0%9F%9B%A0%EF%B8%8F:-Creating-Addons)!
 
 ## 📝 Useful Info
-Need any information about the project? Check out it's new [wiki](https://github.com/Eclipse-Studios/backpacks/wiki)!
+Need any information about the project? Check out it's [wiki](https://github.com/Eclipse-Studios/humanoid_villagers/wiki)!

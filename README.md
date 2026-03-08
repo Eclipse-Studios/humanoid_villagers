@@ -41,7 +41,7 @@
 
 <hr/>
 
-#### 🌐 Contributors...
+#### 🌐 Supported Languages (Contributors)...
 - English (en_us): By [ElGeroIngles](https://modrinth.com/user/ElGeroIngles).
 - Spanish (es_es): By [ElGeroIngles](https://modrinth.com/user/ElGeroIngles).
 
